@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Reactionary/static/css/main.a89d5179.css",
+    "main.js": "/Reactionary/static/js/main.73646f63.js",
+    "static/media/cooper.png": "/Reactionary/static/media/cooper.0e7535c029cc0af3f96e.png",
+    "index.html": "/Reactionary/index.html",
+    "main.a89d5179.css.map": "/Reactionary/static/css/main.a89d5179.css.map",
+    "main.73646f63.js.map": "/Reactionary/static/js/main.73646f63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a89d5179.css",
+    "static/js/main.73646f63.js"
+  ]
+}
